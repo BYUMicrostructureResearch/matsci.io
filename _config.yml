@@ -7,7 +7,7 @@ repository: BYUMicrostructureResearch/matsci.io.github.io
 
 permalink: pretty
 
-remote_theme: just-the-docs/just-the-docs
+theme: Cayman
 
 plugins:
   - jekyll-remote-theme
@@ -17,7 +17,7 @@ plugins:
 compress_html:
   blanklines: true
 
-color_scheme: purple
+#color_scheme: purple
 
 # External navigation links
 nav_external_links:
