@@ -1,0 +1,53 @@
+# Site settings
+title: Materials Science Software Registry
+description: Any and all materials repositories, codes, and data
+baseurl: "/main"
+url: "https://matsci.io"
+repository: BYUMicrostructureResearch/matsci.io.github.io
+
+permalink: pretty
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+
+compress_html:
+  blanklines: true
+
+color_scheme: purple
+
+# External navigation links
+nav_external_links:
+  - title: GitHub
+    url: "https://github.com/BYUMicrostructureResearch/matsci.io"
+
+# Aux links for the upper right navigation
+#aux_links:
+#  "Other useful links":
+#    - "https://"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Enable callouts in markdown    
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+category-list: [atomistic, mesoscale, continuum, experimental]
