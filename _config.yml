@@ -7,7 +7,7 @@ repository: BYUMicrostructureResearch/matsci.io.github.io
 
 permalink: pretty
 
-theme: Cayman
+theme: cayman
 
 plugins:
   - jekyll-remote-theme
