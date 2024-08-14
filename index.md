@@ -5,8 +5,8 @@ title: Home
 
 ### A listing for any and all software related to materials science.
 
-[Getting started](./pages/getting_started.html)
-[Registry][./pages/registry.html]
+[Getting started](./getting-started.html)
+[Registry][./registry.html]
 [Message boards (external)][matsci.org]
 
 ---
