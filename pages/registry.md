@@ -1,6 +1,5 @@
 ---
 title: Materials Science Registry
-nav_order: 2
 ---
 
 {% for cat in site.category-list %}

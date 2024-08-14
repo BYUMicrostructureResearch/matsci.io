@@ -1,7 +1,5 @@
 ---
 title: Usage
-nav_order: 5
-usemathjax: true
 ---
 
 # Getting started
