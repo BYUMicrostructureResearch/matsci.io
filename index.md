@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Home
+title: Materials Science Software Registry
 ---
 
-### A listing for any and all software related to materials science.
-
-[Getting started](./getting-started.html)
-[Registry][./registry.html]
-[Message boards (external)][matsci.org]
+[Getting started](./getting-started.html){: .btn}
+[Registry][./registry.html]{: .btn}
+[Message boards (external)][matsci.org]{: .btn}
 
 ---
 
